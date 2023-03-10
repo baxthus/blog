@@ -1,0 +1,11 @@
+<post>
+  <title>Test Post Title</title>
+  <date>10/03/2023</date>
+  <preview>https://abysmal.eu.org/avatar.png</preview>
+  <content>
+    This is a test content for a post.
+
+    <b>Cool test.</b>
+    <b>More <i>cool</i> test.</b>
+  </content>
+</post>
